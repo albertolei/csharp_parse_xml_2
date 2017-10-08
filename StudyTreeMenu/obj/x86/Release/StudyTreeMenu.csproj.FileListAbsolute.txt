@@ -1,0 +1,9 @@
+E:\NETWorkspace\StudyTreeMenu\bin\Release\StudyTreeMenu.exe.config
+E:\NETWorkspace\StudyTreeMenu\bin\Release\StudyTreeMenu.exe
+E:\NETWorkspace\StudyTreeMenu\bin\Release\StudyTreeMenu.pdb
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.treeForm.resources
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.Properties.Resources.resources
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.csproj.GenerateResource.Cache
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.exe
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.pdb
+E:\NETWorkspace\StudyTreeMenu\obj\x86\Release\StudyTreeMenu.csprojResolveAssemblyReference.cache
